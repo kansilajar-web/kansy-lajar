@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Digital Trantibum Satpol PP Lembata",
+  "description": "DOKUBAKU - Dokumentasi dan Pelaporan Baku Jaga Trantibum Satuan Polisi Pamong Praja Kabupaten Lembata",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
